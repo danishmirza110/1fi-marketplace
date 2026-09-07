@@ -54,7 +54,6 @@ Confirm Order
 🚀 **Live Demo:** [View Live Project](https://1fi-marketplace-two.vercel.app/shop/marketplace)
 
 This project was created as part of the **1Fi SDE Intern Assignment**.
-
-Live Demo Link-- 
+ 
 
 
