@@ -1,5 +1,8 @@
 # 1Fi Marketplace
 
+
+🚀 **Live Demo:** [View Live Project](https://1fi-marketplace-two.vercel.app/shop/marketplace)
+
 This project was created as part of the **1Fi SDE Intern Assignment**.
 
 The project adds a new **1Fi Marketplace** section to the Shop page. Users can browse products, view product details, select variants, choose an EMI plan, and continue with their selected plan.
@@ -49,11 +52,5 @@ Select EMI Plan
   ↓
 Confirm Order
 
-# 1Fi Marketplace
-
-🚀 **Live Demo:** [View Live Project](https://1fi-marketplace-two.vercel.app/shop/marketplace)
-
-This project was created as part of the **1Fi SDE Intern Assignment**.
- 
 
 
