@@ -1,0 +1,25 @@
+{
+  "name": "1fi-marketplace",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "1Fi Marketplace — a Shop-page feature for the 1Fi app that lets users browse products and pay via no-cost mutual-fund-backed EMIs.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "lucide-react": "^0.436.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.1"
+  }
+}
